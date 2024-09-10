@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo de README para o projeto **Widbeast**:
-
----
-
 # Widbeast
 
 Projeto desenvolvido durante o curso de CSS Grid Layout da Origamid. Este projeto explora os recursos do CSS Grid Layout para criar um site responsivo e bem estruturado.
