@@ -9,6 +9,7 @@ Projeto desenvolvido durante o curso de CSS Grid Layout da Origamid. Este projet
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Usar](#como-usar)
 - [Contribuição](#contribuição)
+- [Visite o Site](#Site)
 
 ## Descrição
 
@@ -44,3 +45,7 @@ O **Widbeast** é um projeto de site que utiliza HTML e CSS, com foco na aplica�
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
+
+## Site
+
+[Clique aqui e experimente a página](https://lamonier-barbosa.github.io/Widbeast/)
