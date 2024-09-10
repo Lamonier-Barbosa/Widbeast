@@ -48,4 +48,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar 
 
 ## Site
 
-[Clique aqui e experimente a página](https://lamonier-barbosa.github.io/Widbeast/)
+[Clique aqui e experimente o site](https://lamonier-barbosa.github.io/Widbeast/)
